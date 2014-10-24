@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: awesome
+Long-Name: awesome
+Url: http://jenkins-ci.org/plugin/awesome/
+Plugin-Version: 1.0-SNAPSHOT (private-10/23/2014 19:55-root)
+Hudson-Version: 1.532.3
+Jenkins-Version: 1.532.3
+Plugin-Dependencies: ui-samples-plugin:1.532.3
+Plugin-Developers: 
+Libraries: /root/awesome/target/classes
+Resource-Path: /root/awesome/src/main/webapp
+
